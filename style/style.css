@@ -1,5 +1,45 @@
+/* color 
+#F6F8F9
+#47ADF1
+#45ABE9
+#9C72E4
+#64C0A9
+#F29E33
+#D863A0
+#B0C926
+*/
+
 * {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
+ul {
+  list-style: none;
+}
+body{
+  background-color: #F6F8F9;
+}
+
+header {
+  padding: 10px 20px;
+  background-color: white;
+}
+.logo {
+  vertical-align: bottom;
+}
+.header-title {
+  display: inline-block;
+  font-size: 3em;
+}
+
+.container{
+	max-width: 1024px;
+	margin: 0 auto;
+}
+main .container{
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px 30px;
+}
+
