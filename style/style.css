@@ -35,6 +35,12 @@ main {
     padding: 30px 0;
     color: #444851;
 }
+.menu-button{
+  border-radius: 5px 5px 0 0; 
+}
+.task-list{
+  border-radius: 0 0 5px 5px;  
+}
 .add-bt{
   border-radius: 4px;
   padding: 5px 10px;
